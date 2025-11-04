@@ -296,10 +296,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FtJNQ2gPW66LiZf2QpWx-2" value="FAQ CT: {&lt;div&gt;category - reference Taxonomy - Categories&lt;/div&gt;&lt;div&gt;url key&lt;/div&gt;&lt;div&gt;question&lt;/div&gt;&lt;div&gt;answer&lt;/div&gt;&lt;div&gt;upvotes&lt;/div&gt;&lt;div&gt;downvotes&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;country restrictions - reference Taxonomy - Country Restrictions&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1450" y="330" width="180" height="190" as="geometry" />
+          <mxGeometry x="127" y="190" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="FtJNQ2gPW66LiZf2QpWx-3" value="Categories Taxonomy {&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;label&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;value&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1650" y="350" width="139" height="60" as="geometry" />
+        <mxCell id="FtJNQ2gPW66LiZf2QpWx-3" value="Categories Taxonomy {&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;label&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;value&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="459.5" y="210.5" width="60" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
