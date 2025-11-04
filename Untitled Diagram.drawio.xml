@@ -309,7 +309,7 @@
         <mxCell id="Sb8aa5vqEY5uBrzsDuEf-2" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;category - reference&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;country restrictions - reference Taxonomy - Country Restrictions&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;downvotes&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;upvotes&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;answer&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;question&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;url key&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;Taxonomy - Categories&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Sb8aa5vqEY5uBrzsDuEf-1">
           <mxGeometry y="26" width="230" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="Sb8aa5vqEY5uBrzsDuEf-3" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Categories Taxonomy&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+        <mxCell id="Sb8aa5vqEY5uBrzsDuEf-3" value="&lt;span data-teams=&quot;true&quot;&gt;Categories Taxonomy (static)&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="144" width="260" height="80" as="geometry">
             <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -328,9 +328,6 @@
             <mxPoint x="460" y="50" as="sourcePoint" />
             <mxPoint x="480" y="190" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Sb8aa5vqEY5uBrzsDuEf-7" value="&lt;i&gt;Enum Value&lt;/i&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="224" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
