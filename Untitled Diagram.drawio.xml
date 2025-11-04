@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="WRXPUWOQbG0yZzhzNKy8">
-    <mxGraphModel dx="1018" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -720,6 +720,54 @@
         </mxCell>
         <mxCell id="LmGbH5dm5KCTC8Gmaw-Z-5" value="Media CT: {&lt;div&gt;Static Data defined in code&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="560" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-1" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Articles&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&amp;nbsp;CT&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="420" width="300" height="280" as="geometry">
+            <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-2" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); display: inline !important;&quot;&gt;name&lt;/div&gt;&lt;/li&gt;&lt;li&gt;locale&lt;/li&gt;&lt;li&gt;path&lt;/li&gt;&lt;li&gt;url key&lt;/li&gt;&lt;li&gt;content&lt;/li&gt;&lt;li&gt;published Date&lt;/li&gt;&lt;li&gt;status&lt;/li&gt;&lt;li&gt;exclude from sitemap&lt;/li&gt;&lt;li&gt;exclude from internal search&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tags - referenceTaxonomy - Tags&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;image - referenceTaxonomy - Media&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;country restrictions - reference Taxonomy - Country Restrictions&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;keywords&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;meta title&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;meta description&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0rzxOIkHlu2tP4qY_T0I-1">
+          <mxGeometry y="26" width="300" height="254" as="geometry" />
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-3" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Press Release Taxonomy&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="670" width="220" height="118" as="geometry">
+            <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-4" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;ul&gt;&lt;li&gt;Carousel - Static Data&lt;/li&gt;&lt;li&gt;Articles List&amp;nbsp;&lt;/li&gt;&lt;li&gt;Campaign Media&lt;/li&gt;&lt;li&gt;Multimedia&lt;/li&gt;&lt;li&gt;Media&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0rzxOIkHlu2tP4qY_T0I-3">
+          <mxGeometry y="24" width="220" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-5" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Carousel CT&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="840" width="200" height="70" as="geometry">
+            <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-6" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Static Data defined in code&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0rzxOIkHlu2tP4qY_T0I-5">
+          <mxGeometry y="24" width="200" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-8" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Campaign Media CT&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="840" width="210" height="70" as="geometry">
+            <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-9" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Static Data defined in code&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0rzxOIkHlu2tP4qY_T0I-8">
+          <mxGeometry y="24" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-10" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Media CT&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="840" width="210" height="70" as="geometry">
+            <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-11" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Static Data defined in code&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0rzxOIkHlu2tP4qY_T0I-10">
+          <mxGeometry y="24" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-12" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;Multimedia CT&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="840" width="210" height="70" as="geometry">
+            <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0rzxOIkHlu2tP4qY_T0I-13" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Static Data defined in code&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0rzxOIkHlu2tP4qY_T0I-12">
+          <mxGeometry y="24" width="210" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
