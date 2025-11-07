@@ -659,7 +659,7 @@
         <mxCell id="cXuSVejnaW5c-oqPtQPT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.269;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dkMXZUKo1iBNI9Um0H-a-46" target="dkMXZUKo1iBNI9Um0H-a-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuSVejnaW5c-oqPtQPT-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Media Content Type&lt;/h1&gt;&lt;p&gt;Media Content type is model embedded as fields model, whenever model create field with media content type model it will include all the field in the model itself&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cXuSVejnaW5c-oqPtQPT-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Media Content Type&lt;/h1&gt;&lt;p&gt;Media Content type is model embedded as fields model, whenever model create custom field with model type and select media content type model, it will include all media fields in the model itself&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-302.5" y="-370" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cXuSVejnaW5c-oqPtQPT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dkMXZUKo1iBNI9Um0H-a-47" target="Sb8aa5vqEY5uBrzsDuEf-2">
