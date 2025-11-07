@@ -70,13 +70,13 @@
             <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dkMXZUKo1iBNI9Um0H-a-45" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;tags - Reference Taxonomy&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;entity type&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;entity id&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;is internal&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dkMXZUKo1iBNI9Um0H-a-44" vertex="1">
+        <mxCell id="dkMXZUKo1iBNI9Um0H-a-45" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span data-teams=&quot;true&quot;&gt;tags - Reference Taxonomy&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;is internal&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="dkMXZUKo1iBNI9Um0H-a-44" vertex="1">
           <mxGeometry y="26" width="190" height="104" as="geometry" />
         </mxCell>
         <mxCell id="cXuSVejnaW5c-oqPtQPT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dkMXZUKo1iBNI9Um0H-a-46" target="dkMXZUKo1iBNI9Um0H-a-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="-380" />
+              <mxPoint x="750" y="-380" />
               <mxPoint x="110" y="-380" />
               <mxPoint x="110" y="-600" />
             </Array>
@@ -656,18 +656,24 @@
         <mxCell id="cXuSVejnaW5c-oqPtQPT-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Media Content Type&lt;/h1&gt;&lt;p&gt;Media Content type is model embedded as fields, whenever model create field with media content type model it will include all the field in the model itself&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-302.5" y="-370" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cXuSVejnaW5c-oqPtQPT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sb8aa5vqEY5uBrzsDuEf-2" target="dkMXZUKo1iBNI9Um0H-a-47">
+        <mxCell id="cXuSVejnaW5c-oqPtQPT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dkMXZUKo1iBNI9Um0H-a-47" target="Sb8aa5vqEY5uBrzsDuEf-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="180" />
-              <mxPoint x="540" y="30" />
-              <mxPoint x="630" y="30" />
-              <mxPoint x="630" y="-211" />
+              <mxPoint x="520" y="-190" />
+              <mxPoint x="520" y="173" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cXuSVejnaW5c-oqPtQPT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0rzxOIkHlu2tP4qY_T0I-2" target="dkMXZUKo1iBNI9Um0H-a-47">
+        <mxCell id="cXuSVejnaW5c-oqPtQPT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dkMXZUKo1iBNI9Um0H-a-47" target="0rzxOIkHlu2tP4qY_T0I-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXuSVejnaW5c-oqPtQPT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dkMXZUKo1iBNI9Um0H-a-45" target="0rzxOIkHlu2tP4qY_T0I-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="-180" />
+              <mxPoint x="540" y="453" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
