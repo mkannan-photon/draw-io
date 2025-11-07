@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="WRXPUWOQbG0yZzhzNKy8">
-    <mxGraphModel dx="2305" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="2045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -659,7 +659,7 @@
         <mxCell id="cXuSVejnaW5c-oqPtQPT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.269;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dkMXZUKo1iBNI9Um0H-a-46" target="dkMXZUKo1iBNI9Um0H-a-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXuSVejnaW5c-oqPtQPT-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Media Content Type&lt;/h1&gt;&lt;p&gt;Media Content type is model embedded as fields, whenever model create field with media content type model it will include all the field in the model itself&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cXuSVejnaW5c-oqPtQPT-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Media Content Type&lt;/h1&gt;&lt;p&gt;Media Content type is model embedded as fields model, whenever model create field with media content type model it will include all the field in the model itself&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-302.5" y="-370" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cXuSVejnaW5c-oqPtQPT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.307;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dkMXZUKo1iBNI9Um0H-a-47" target="Sb8aa5vqEY5uBrzsDuEf-2">
