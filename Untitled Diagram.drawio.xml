@@ -115,7 +115,7 @@
           <mxGeometry y="50" width="300" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Sb8aa5vqEY5uBrzsDuEf-1" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;FAQ CT&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="80" width="230" height="214" as="geometry">
+          <mxGeometry x="195" y="81" width="230" height="214" as="geometry">
             <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -123,7 +123,7 @@
           <mxGeometry y="40" width="230" height="174" as="geometry" />
         </mxCell>
         <mxCell id="Sb8aa5vqEY5uBrzsDuEf-3" value="&lt;span data-teams=&quot;true&quot;&gt;Categories Taxonomy (static)&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="561" y="102" width="260" height="80" as="geometry">
+          <mxGeometry x="560" y="102" width="260" height="80" as="geometry">
             <mxRectangle x="980" y="270" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
